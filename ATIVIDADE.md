@@ -4,7 +4,7 @@
 + Este é um item de uma lista
 + Este é outro item de uma lista
 
-'''c
+```c
   \#include <stdio.h>
   \#include <stdlib.h>
 
@@ -40,4 +40,4 @@
      printf("A media da renda e de R$%.00f\n e as mulheres com mais de dois filhos e renda a baixo de R$600.00 e %i", media, contag);
       return 0;
   }
-'''
+```
