@@ -4,8 +4,9 @@
 + Este é um item de uma lista
 + Este é outro item de uma lista
 
-'''#include <stdio.h>
-'#include <stdlib.h>
+'''c
+\#include <stdio.h>
+\#include <stdlib.h>
 
 struct pesquisa {
   int idade;
