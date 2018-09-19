@@ -5,8 +5,8 @@
 + Este é outro item de uma lista
 
 ```c
-  \#include <stdio.h>
-  \#include <stdlib.h>
+  #include <stdio.h>
+  #include <stdlib.h>
 
   struct pesquisa {
     int idade;
